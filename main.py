@@ -1,7 +1,6 @@
 import math
 import turtle
 
-# Set up the turtle
 t = turtle.Turtle()
 t.speed("fastest")
 t.penup()
